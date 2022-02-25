@@ -1,2 +1,2 @@
 # edubridge
-uploading all edubridge related assignments and projects in this repo.
+Java Practicals for batch 6538 and 6517
